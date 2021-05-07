@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/e54xk0vwppraf3b5?svg=true)](https://ci.appveyor.com/project/alexpg27/api-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/e54xk0vwppraf3b5?svg=true)](https://ci.appveyor.com/project/alexpqa27/api-ci)
